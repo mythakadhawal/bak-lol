@@ -1,1 +1,1 @@
-{"buildCommand": "npm run build", "outputDirectory": "dist"}
+{"buildCommand": "cd bak-lol/frontend && npm run build","outputDirectory": "bak-lol/frontend/dist","installCommand": "cd bak-lol/frontend && npm install"}
